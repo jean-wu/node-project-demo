@@ -1,0 +1,7 @@
+koa---- web框架
+koa-router 路由
+koa-bodyparser  解析json
+nodemon---- 启动应用程序
+jsonwebtoken---token验证
+dotenv---用于加载.env文件中的环境变量
+mysql2---MySQL数据库驱动程序
